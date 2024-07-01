@@ -47,3 +47,5 @@ Make sure you have the following installed:
 - RStudio is an integrated development environment (IDE) for R, featuring a script editor with syntax highlighting, an interactive R console, and tools for managing R packages. It supports interactive plotting, project management with Git integration, and R Markdown for reproducible reporting. RStudio simplifies R programming by providing a cohesive environment for writing, debugging, and sharing R code, making it a preferred choice for data analysis and statistical computing tasks.
 
 ## Attachments:
+
+![Sample Image](results/Picture1.png.png)
