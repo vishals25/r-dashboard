@@ -1,6 +1,10 @@
 # R Dashboard
 
-This repository contains a dashboard application built using R. It provides a video game sales dashboard involve ensuring data accuracy by integrating reliable sources, designing a visually clear interface with intuitive charts and graphs, incorporating comprehensive metrics covering revenue, units sold, and other relevant factors, adding interactivity for exploration, enabling real-time updates for current information, allowing customization for user preferences, monitoring dashboard performance, and integrating with other systems like CRM and inventory management for a holistic view of sales performance and informed decision-making..
+This repository contains a dashboard application built using R. It provides a video game sales dashboard involve ensuring data accuracy by integrating reliable sources, designing a visually clear interface with intuitive charts and graphs, incorporating comprehensive metrics allowing customization for user preferences, monitoring dashboard performance and informed decision-making..
+
+## To run this R-shiny application
+
+Click on the `Run App` button typically found in the top-right corner of the script editor pane in RStudio, or run the command `shiny::runApp()` in the R console.
 
 ## Table of Contents
 
@@ -48,4 +52,6 @@ Make sure you have the following installed:
 
 ## Attachments:
 
-![Sample Image](results/Picture1.png.png)
+![Sample Image](results/Picture1.png)
+
+For more visit [result](/results/) in this repository.
